@@ -10,10 +10,10 @@ o	The percentage of passing reading score dropped by 1% but the average score fo
 o	The overall passing rate decreased by 1% as well 
 
 District Summary (Before): 
-![Pic1}()(https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.00.41%20PM.png)
+![Pic1}(https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.00.41%20PM.png)
 
 District Summary (After): 
-![Pic2]( https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.00.50%20PM.png)
+![Pic2](https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.00.50%20PM.png)
 
 •	How is the school summary affected?
 o	The per school summary was only affected for Thomas High School as follows:
@@ -22,10 +22,10 @@ o	The per school summary was only affected for Thomas High School as follows:
 	Overall passing percentage: 90% to 65%
 
 Thomas High School Summary (Before): 
-![Pic3]( https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.16.44%20PM.png)
+![Pic3](https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.16.44%20PM.png)
 
 Thomas High School Summary (After): 
-![Pic4]( https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.16.56%20PM.png)
+![Pic4](https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.16.56%20PM.png)
 
 
 •	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -40,21 +40,27 @@ o	Scores by school spending
 •	percentage passing math dropped from 73% to 67% 
 •	percentage passing reading dropped from 84% to 77% 
 •	overall passing percentage dropped from 63% to 56%
-![Pic]( https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.58.32%20PM.png)
+
+![Pic](https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.58.32%20PM.png)
 
 o	Scores by school size
 	Scores by School Size changed at the Medium (1000-2000) size: 
 •	percentage passing math dropped from 94% to 88% 
 •	percentage passing reading dropped from 97% to 91% 
 •	overall passing percentage dropped from 91% to 85%
-![Pic5]( https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.58.41%20PM.png)
+
+![Pic5](https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.58.41%20PM.png)
 
 o	Scores by school type
 	Scores by School Type changed for the Charter school type: 
 •	percentage passing math dropped from 94% to 90% 
 •	percentage passing reading dropped from 97% to 93% 
 •	overall passing percentage dropped from 90% to 87%
-![Pic6]( https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.58.49%20PM.png)
+
+![Pic6](https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.58.49%20PM.png)
 
 # Summary 
 There have been changes to the overall school ranking, the scores in the school size categories, the scores in the school spending categories, and grades averages for grade 9 overall. These have collectively gone down due to the removal of the inflated scores for grade 9. Once the academic dishonesty was discovered, removed and accounted for, these lower scores represent more accurate school scores. 
+
+![image](https://user-images.githubusercontent.com/96354695/151722078-35c18e70-d378-4615-98d0-36b9dd207cb3.png)
+
