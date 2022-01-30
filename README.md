@@ -5,9 +5,9 @@ Due to evidence of academic dishonesty at Thomas High School, we have been taske
 
 # Results 
 •	How is the district summary affected?
-o	The percentage of passing math score dropped by 1% whereas the average dropped by less than 1%
-o	The percentage of passing reading score dropped by 1% but the average score for this was not affected 
-o	The overall passing rate decreased by 1% as well 
+    - The percentage of passing math score dropped by 1% whereas the average dropped by less than 1%
+    - The percentage of passing reading score dropped by 1% but the average score for this was not affected 
+    - The overall passing rate decreased by 1% as well 
 
 District Summary (Before): 
 ![Pic1](https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.00.41%20PM.png)
@@ -17,9 +17,9 @@ District Summary (After):
 
 •	How is the school summary affected?
 o	The per school summary was only affected for Thomas High School as follows:
-	Math passing percentage: 93% to 66% 
-	Reading passing percentage: 97% to 69% 
-	Overall passing percentage: 90% to 65%
+  - Math passing percentage: 93% to 66% 
+  - Reading passing percentage: 97% to 69% 
+  - Overall passing percentage: 90% to 65%
 
 Thomas High School Summary (Before): 
 ![Pic3](https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.16.44%20PM.png)
@@ -33,29 +33,29 @@ o	Replacing the grades brings down the overall percentage of passing students at
 o	This took Thomas High School out of the top five schools where it previously held a position, to 8th position overall out of 15 schools. 
 
 •	How does replacing the ninth-grade scores affect the following:
-o	Math and reading scores by grade
-	No other grades’ scores were affected by the replacing of grade 9 Thomas High School students’ grades
+    - Math and reading scores by grade
+      - No other grades’ scores were affected by the replacing of grade 9 Thomas High School students’ grades
 o	Scores by school spending
-	Scores for $630-644 range changed for:
-•	percentage passing math dropped from 73% to 67% 
-•	percentage passing reading dropped from 84% to 77% 
-•	overall passing percentage dropped from 63% to 56%
+    - Scores for $630-644 range changed for:
+      - percentage passing math dropped from 73% to 67% 
+      - percentage passing reading dropped from 84% to 77% 
+      - overall passing percentage dropped from 63% to 56%
 
 ![Pic](https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.58.32%20PM.png)
 
 o	Scores by school size
-	Scores by School Size changed at the Medium (1000-2000) size: 
-•	percentage passing math dropped from 94% to 88% 
-•	percentage passing reading dropped from 97% to 91% 
-•	overall passing percentage dropped from 91% to 85%
+  - Scores by School Size changed at the Medium (1000-2000) size: 
+    - percentage passing math dropped from 94% to 88% 
+    - percentage passing reading dropped from 97% to 91% 
+    - overall passing percentage dropped from 91% to 85%
 
 ![Pic5](https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.58.41%20PM.png)
 
 o	Scores by school type
-	Scores by School Type changed for the Charter school type: 
-•	percentage passing math dropped from 94% to 90% 
-•	percentage passing reading dropped from 97% to 93% 
-•	overall passing percentage dropped from 90% to 87%
+    - Scores by School Type changed for the Charter school type: 
+      - percentage passing math dropped from 94% to 90% 
+      - percentage passing reading dropped from 97% to 93% 
+      - overall passing percentage dropped from 90% to 87%
 
 ![Pic6](https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.58.49%20PM.png)
 
