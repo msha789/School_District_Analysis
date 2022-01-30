@@ -61,6 +61,3 @@ o	Scores by school type
 
 # Summary 
 There have been changes to the overall school ranking, the scores in the school size categories, the scores in the school spending categories, and grades averages for grade 9 overall. These have collectively gone down due to the removal of the inflated scores for grade 9. Once the academic dishonesty was discovered, removed and accounted for, these lower scores represent more accurate school scores. 
-
-![image](https://user-images.githubusercontent.com/96354695/151722094-4f829342-118f-41e0-9e1d-9d606582453c.png)
-
