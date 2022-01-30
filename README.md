@@ -10,7 +10,7 @@ o	The percentage of passing reading score dropped by 1% but the average score fo
 o	The overall passing rate decreased by 1% as well 
 
 District Summary (Before): 
-![Pic1}( https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.00.41%20PM.png)
+![Pic1}()(https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.00.41%20PM.png)
 
 District Summary (After): 
 ![Pic2]( https://github.com/msha789/School_District_Analysis/blob/03b7b180062ee4352ac1c3b5a81159e99c11a6ea/Screen%20Shot%202022-01-30%20at%205.00.50%20PM.png)
